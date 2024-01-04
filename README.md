@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-git clone url
-git install
-git run start
+1. git clone url
+2. git install
+3. git run start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
